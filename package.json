@@ -14,5 +14,8 @@
   "license": "ISC",
   "devDependencies": {
     "vuepress": "^1.5.4"
+  },
+  "dependencies": {
+    "vue-echarts-generator": "^2.2.5"
   }
 }

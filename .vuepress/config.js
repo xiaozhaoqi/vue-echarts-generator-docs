@@ -6,6 +6,7 @@ module.exports = {
       { text: '指南', link: '/guide/guide/' },
       { text: '配置', link: '/guide/config/' },
       { text: '示例', link: '/guide/example/' },
+      { text: 'DEMO', link: '/guide/demo/' },
       {
         text: '仓库',
         items: [
@@ -14,7 +15,7 @@ module.exports = {
         ]
       }
     ],
-    sidebar: ['/guide/guide/', '/guide/config/', '/guide/example/']
+    sidebar: ['/guide/guide/', '/guide/config/', '/guide/example/', '/guide/demo/']
   },
   dest: './docs',
   base: '/vue-echarts-generator-docs/'
